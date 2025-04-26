@@ -1,10 +1,9 @@
 <script setup>
-import InvitationQVCT from "@/pages/pages/InvitationQVCT.vue";
 
 </script>
 
 <template>
-  <InvitationQVCT />
+  <router-view />
 </template>
 
 <style scoped>
