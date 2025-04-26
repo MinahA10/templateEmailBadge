@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "grapesjs": "^0.22.6",
+    "@grapesjs/studio-sdk": "^1.0.41",
+    "grapesjs-preset-newsletter": "^1.0.2",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
